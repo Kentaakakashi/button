@@ -1,0 +1,13 @@
+body {
+    background-color: purple;
+}
+
+.Paragraph {
+    background-color: white;
+    display: flexbox;
+    width: 200px;
+}
+
+.function {
+    background-color: white;
+}
